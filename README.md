@@ -6,7 +6,7 @@ Smali Files For Fix SMS Verification on WhatsApp MOD By You
 
 Decompile Your Modded Whatsapp.Apk Go to Smali Folder And Paste This Folders With Smalis.
 
-Example:
+#Example:
 
 #1 Download SMS-Verification-Fix-WhatsApp
 
