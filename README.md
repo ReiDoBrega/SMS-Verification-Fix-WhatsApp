@@ -8,7 +8,7 @@ Decompile Your Modded Whatsapp.Apk Go to Smali Folder And Paste This Folders Wit
 
 #Example:
 
-#1 Download SMS-Verification-Fix-WhatsApp
+#1 Download SMS-Verification-Fix-WhatsApp-master.zip
 
 #2 Descompile your Apk (example name WhatsApp 2.17.83)
 
