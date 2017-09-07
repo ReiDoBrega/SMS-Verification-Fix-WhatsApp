@@ -1,6 +1,6 @@
-#SMS-Verificação-Fix
+**SMS-Verificação-Fix**
 
-Smali Files For Fix SMS Verification on WhatsApp MOD By You
+>Smali Files For Fix SMS Verification on WhatsApp MOD By You
 
 #Adding
 
